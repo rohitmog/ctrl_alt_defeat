@@ -1,1 +1,7 @@
 ./data/*
+*.csv
+*.xlsx
+env
+
+# For WSL 
+*:Zone.Identifier
