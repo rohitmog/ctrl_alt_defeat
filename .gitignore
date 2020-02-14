@@ -1,4 +1,5 @@
 ./data/*
+./notebook/.ipynb_checkpoints/*
 *.csv
 *.xlsx
 env
